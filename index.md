@@ -10,6 +10,39 @@ You can use the [editor on GitHub](https://github.com/ximil-corp/imperialverse/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Gameplay
+
+This is the gameplay section
+
+### The Imperialverse Dinar - IVX
+
+Explanation of the Imperialverse Token
+
+### Decentralized Organization
+
+DAO
+
+### Key metrics
+
+Key metrics
+
+### Technology
+
+Blockchain to use, etc
+
+### Roadmap
+
+Roadmap
+
+### Team
+
+Team
+
+### Partners
+
+Partners
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
