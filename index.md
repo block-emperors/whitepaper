@@ -4,6 +4,8 @@ Official Imperialverse Whitepaper, last updated February 2022
 
 ![Battle Hussars](https://i.stack.imgur.com/CIbEB.jpg)
 
+The Imperialverse is a game universe filled with several armies and `Heroes` where you can train and fight wars with other players.
+
 You can use the [editor on GitHub](https://github.com/ximil-corp/imperialverse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
