@@ -1,14 +1,11 @@
-## The Crypto Emperors
+## Block Emperors
 
-Official The Crypto Emperors Whitepaper, last updated February 2022
+Official Block Emperors Whitepaper, last updated June 2022
 
 ![Battle Hussars](https://i.stack.imgur.com/CIbEB.jpg)
 
-The Crypto Emperors is a game universe filled with several armies and `Heroes` where you can train and fight wars with other players.
+Block Emperors is a decentralized, community driven, play to earn game universe filled with several armies and `Heroes` where you can train and fight wars against other players. The community can create its own worlds and receive rewards.
 
-You can use the [editor on GitHub](https://github.com/ximil-corp/the-crypto-emperors/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Gameplay
 
