@@ -8,7 +8,18 @@ Block Emperors is a decentralized, community driven, play to earn game universe 
 
 
 ## Gameplay
-Block Emperors is an RTS (Real-time strategy) game running on Minecraft where the players can play with their own Heroes (NFTs), build structures and lead your armies to war.
+Block Emperors is an RTS (Real-time strategy) game running on Minecraft where the players can play with their own Heroes (NFTs), build structures and lead your armies to war. Additionally, the community can create new worlds and entities building a rich metaverse where the wars will take place.
+
+### Battling
+Battles will happen in Minecraft worlds where players will control their Heroes (NFTs). There will be different types of battles like `Battle Royal`, `Capture the flag` or `Rescue hostages`. Victors will win rewards (tokens) and items like special arms or treasures among others assets.
+
+#### Tournaments
+
+### Worlds
+
+### Entities
+
+### Heroes NFTs
 
 
 ### Block Emperors Dinar - BED
