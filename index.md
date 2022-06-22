@@ -1,4 +1,4 @@
-# Block Emperors
+## Block Emperors
 
 Official Block Emperors Whitepaper, last updated June 2022
 
