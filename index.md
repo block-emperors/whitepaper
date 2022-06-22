@@ -1,19 +1,19 @@
-## Block Emperors
+# Block Emperors
 
 Official Block Emperors Whitepaper, last updated June 2022
 
 ![Battle Hussars](https://i.stack.imgur.com/CIbEB.jpg)
 
-Block Emperors is a decentralized, community driven, play to earn game universe filled with several armies and `Heroes` where you can train and fight wars against other players. The community can create its own worlds and receive rewards.
+Block Emperors is a decentralized, community driven, play to earn game universe filled with several `Heroes` and armies where you can train and fight wars against other players. This game universe will run using Minecraft, so the community can create its own worlds and receive rewards for this. Players can collect Heroes and play with their respective skins.
 
 
-### Gameplay
+## Gameplay
+Block Emperors is an RTS (Real-time strategy) game running on Minecraft where the players can play with their own Heroes (NFTs), build structures and lead your armies to war.
 
-This is the gameplay section
 
-### The Crypto Emperors Dinar - CED
+### Block Emperors Dinar - BED
 
-Explanation of the Crypto Emperors Token
+Explanation of the Block Emperors Token
 
 ### Decentralized Organization
 
