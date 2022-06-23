@@ -4,25 +4,30 @@ Official Block Emperors Whitepaper, last updated June 2022
 
 ![Battle Hussars](https://i.stack.imgur.com/CIbEB.jpg)
 
-Block Emperors is a decentralized, community driven, play to earn game universe filled with several `Heroes` and armies where you can train and fight wars against other players. This game universe will run using Minecraft, so the community can create its own worlds and receive rewards for this. Players can collect Heroes and play with their respective skins.
+Block Emperors is a decentralized, community-driven, play-to-earn game universe filled with several `Heroes` and armies where you can train and fight wars against other players. This game universe will run using Minecraft, so the community can create its own worlds and earn rewards for this. Players can collect Heroes and play with their respective skins.
 
 
 ## Gameplay
-Block Emperors is an RTS (Real-time strategy) game running on Minecraft where the players can play with their own Heroes (NFTs), build structures and lead your armies to war. Additionally, the community can create new worlds and entities building a rich metaverse where the wars will take place.
+Block Emperors is an RTS (Real-time strategy) game running on Minecraft where the players can play with their own Heroes (NFTs), build structures, and lead their armies to war. Additionally, the community can create new worlds and entities building a rich metaverse where the wars will take place.
 
 ### Battling
-Battles will happen in Minecraft worlds where players will control their Heroes (NFTs). There will be different types of battles like `Battle Royal`, `Capture the flag` or `Rescue hostages`. Victors will win rewards (tokens) and items like special arms or treasures among others assets.
+Battles will happen in Minecraft worlds where players will control their Heroes (NFTs). There will be different types of battles like `Battle Royal`, `Capture the flag` or `Rescue hostages`. Victors will earn rewards (tokens) and items like special arms or treasures among other assets.
 
 #### Tournaments
+Block Emperors will organize online tournaments where players could earn thousands of dollars worth of cryptocurrency.
 
 ### Worlds
+Block Emperor's worlds can be created by the community. This is a way for the community to earn cryptocurrency and contribute to the ecosystem.
 
-### Entities
+### NFT Heroes Genesis Collection
+Block Emperors will mint the NFT Heroes genesis collection. Each NFT represents a Hero that will have its skin to play in Minecraft. The skin is different from the original NFT artwork and will be send to the users with the beta release of the first pack of worlds, so they can start using their skin in Minecraft.
 
-### Heroes NFTs
+### Tokens
 
+#### Block Emperors Dinar - $BED (Governance token)
 
-### Block Emperors Dinar - BED
+#### Block Emperors XXX - $XXX (Utility token)
+
 
 Explanation of the Block Emperors Token
 
