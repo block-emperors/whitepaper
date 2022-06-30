@@ -19,71 +19,32 @@ Block Emperors will organize online tournaments where players could earn thousan
 ### Worlds
 Block Emperor's worlds can be created by the community. This is a way for the community to earn cryptocurrency and contribute to the ecosystem.
 
-### NFT Heroes Genesis Collection
-Block Emperors will mint the NFT Heroes genesis collection. Each NFT represents a Hero that will have its skin to play in Minecraft. The skin is different from the original NFT artwork and will be send to the users with the beta release of the first pack of worlds, so they can start using their skin in Minecraft.
+## NFT Heroes Genesis Collection
+Block Emperors will mint the NFT Heroes genesis collection. Each NFT represents a Hero that will have its skin to play in Minecraft. The skin is different from the original NFT artwork and will be sent to the users with the beta release of the first pack of worlds, so they can start using their skin in Minecraft. These NFTs will give access to the Block Emperors community servers.
 
-### Tokens
+## Tokens
 
-#### Block Emperors Dinar - $BED (Governance token)
+### Block Emperors Dinars - $BED (Governance token)
+Block Emperors Dinars (BED) are an ERC-20 governance tokens for the Block Emperor community. BED holders will be able to access the community servers, play the game, and participate in governance decisions (votes). Players can earn $BED on tournaments, creating and adding maps to the game and through contributions to the community.
 
-#### Block Emperors XXX - $XXX (Utility token)
+## Decentralized Organization
+A DAO will be created to help evolve the community and game. BED distribution will help to decentralize ownership and become a community-owned Decentralized Organization. This process will happen as BED is distributed among players, with the founders ownership becoming less concentrated over time. The founders team will be able to vote with the locked tokens. This will prevent hostile actors from disrupting the game universe during the initial development. We estimate the founders team won't have the majority vote by 1Q 2024.
 
-
-Explanation of the Block Emperors Token
-
-### Decentralized Organization
-
-DAO
-
-### Key metrics
-
-Key metrics
-
-### Technology
+## Technology
 
 Blockchain to use, etc
 
-### Roadmap
+## Roadmap
 
 Roadmap
 
-### Team
+## Team
 
 Team
 
-### Partners
+## Partners
 
 Partners
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ximil-corp/imperialverse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Disclaimer 
+Please note that anything written in this white paper should not be taken as financial advice. The roadmap, features and development tasks are subject to changes based on feedback and decisions from the community, research, traction among other factors.
