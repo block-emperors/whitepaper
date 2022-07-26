@@ -1,6 +1,6 @@
 # Block Emperors
 
-Official Block Emperors Whitepaper, last updated June 2022
+Official Block Emperors Whitepaper, last updated July 2022
 
 ![Block Emperors](https://raw.githubusercontent.com/block-emperors/graphic-design/main/Banner_mirror_01_ok.jpg?token=GHSAT0AAAAAABT54U6ISQMN7WWHGDSVDWJUYW7GAEQ)
 
