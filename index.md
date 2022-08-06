@@ -4,7 +4,7 @@ Official Block Emperors Whitepaper, last updated July 2022
 
 ![Block Emperors](https://block-emperors-assets.s3.us-west-2.amazonaws.com/images/Banner_mirror_01_ok.jpeg)
 
-Let’s build this together!! Block Emperors will be a decentralized, community-driven, play-to-earn game universe filled with fictional Emperors and their armies where we can train and fight wars against other players. This game universe will run using Roblox, so the community can create its worlds and earn rewards for this. Players can collect our favorites Emperors and armies' NFTs, which can be used as Avatars, pictures on social networks, and others.
+Let’s build this together!! Block Emperors will be a decentralized, community-driven, play-to-earn game universe filled with fictional Emperors and their armies where we can train and fight wars against other players. This game universe will run using Roblox, so the community can create its worlds and earn rewards for this. Also, players can collect our favorites Emperors and armies' NFTs, which can be used as Avatars, pictures on social networks, and others.
 
 
 ## Gameplay
@@ -32,19 +32,40 @@ A DAO will be created to help evolve the community and game. BED distribution wi
 
 ## Technology
 
-Blockchain to use, etc
+We will use Roblox to create the the Block Emperors game and Ethereum as the blockchain for the NFTs and DAO.
 
 ## Roadmap
 
-Roadmap
+### Q1
+- Genesis NFT collection
+- Create graphic assets for the game
+- Start coding
+
+### Q2
+- Create first world and 3D objects (environments)
+- Create interfaces
+- Create DAO
+
+### Q3
+- Create game sounds
+- Create custom collectibles
+- Create second world
+
+### Q4
+- Create effects
+- Add custom physics
+- Create initial battles
+
+### Q5
+- Publish game
 
 ## Team
 
-Team
+We are a team comprised of Graphic designers and Software developers with more than 15 years of experience on software projects and recently we fell in lov with Web3. We have been working recently in the game industry creating a platform to manage tournaments for different games.
 
 ## Partners
 
-Partners
+We are welcoming Partners.
 
 ## Disclaimer 
 Please note that anything written in this white paper should not be taken as financial advice. The roadmap, features and development tasks are subject to changes based on feedback and decisions from the community, research, traction among other factors.
