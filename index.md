@@ -2,7 +2,7 @@
 
 Official Block Emperors Whitepaper, last updated July 2022
 
-![Block Emperors]([s3://block-emperors-assets/images/Banner_mirror_01_ok.jpeg](https://block-emperors-assets.s3.us-west-2.amazonaws.com/images/Banner_mirror_01_ok.jpeg))
+![Block Emperors](s3://block-emperors-assets/images/Banner_mirror_01_ok.jpeg](https://block-emperors-assets.s3.us-west-2.amazonaws.com/images/Banner_mirror_01_ok.jpeg)
 
 Let’s build this together!! Block Emperors will be a decentralized, community-driven, play-to-earn game universe filled with fictional Emperors and their armies where we can train and fight wars against other players. This game universe will run using Roblox, so the community can create its worlds and earn rewards for this. Players can collect our favorites Emperors and armies' NFTs, which can be used as Avatars, pictures on social networks, and others.
 
