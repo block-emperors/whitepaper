@@ -23,7 +23,7 @@ Block Emperors will mint the NFT Heroes genesis collection. Each NFT represents 
 Block Emperors Dinars (BED) are an ERC-20 governance tokens for the Block Emperor community. BED holders will be able to participate in governance decisions (votes). Players can earn $BED on tournaments, creating and adding maps to the game and through contributions to the community.
 
 ## Decentralized Organization
-A DAO will be created to help evolve the community and game. BED distribution will help to decentralize ownership and become a community-owned Decentralized Organization. This process will happen as BED is distributed among players, with the founders ownership becoming less concentrated over time. The founders team will be able to vote with the locked tokens. This will prevent hostile actors from disrupting the game universe during the initial development. We estimate the founders team won't have the majority vote by 4Q 2024.
+A DAO will be created to help evolve the community and game. All tokens and NFTs holders will be part of the DAO that will be created within 6 months of the BFT Genesis collection mint. BED distribution will help to decentralize ownership and become a community-owned Decentralized Organization. This process will happen as BED is distributed among players, with the founders ownership becoming less concentrated over time. The founders team will be able to vote with the locked tokens. This will prevent hostile actors from disrupting the game universe during the initial development. We estimate the founders team won't have the majority vote by 4Q 2024.
 
 ## Monetization
 Our idea is that all cash earned through Robux earnings will be distributed among the DAO members, creating a pasive income for the DAO.
